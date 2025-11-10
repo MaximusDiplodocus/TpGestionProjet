@@ -17,7 +17,7 @@ Nous allons modifier le fichier README.md qui est affiché quand on arrive que l
 1. Ouvrir le fichier en cliquant dessus
 2. Cliquer sur le petit crayon en haut à droite
 3. Un éditeur s'ouvre. L'extension "md", c'est pour Markdown, un langage qui permet de structurer un document. Jetez un œil à la documentation [https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax](https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-4. Modifiez le fichier puis appuyez sur "Commit changes..." (bouton vert en haut à droite)
+4. Modifiez le fichier puis appuyez sur "Commit changes" (bouton vert en haut à droite)
 5. Une boite de dialogue s'affiche avec la possibilité d'ajouter un "Commit messaage". Ce message est très important, il va permettre de faire comprendre aux autres membres de l'équipe pourquoi on a fait ce changement. Saisissez : "Tester la modification".
 6. Vérifiez bien que l'option "Commit directly to the main branch" est séléctionné et validez.
 7. Voilà votre première modification.😉
